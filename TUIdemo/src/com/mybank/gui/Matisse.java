@@ -110,7 +110,7 @@ public class Matisse extends javax.swing.JFrame {
     }
 
     private void aboutButtonActionPerformed(java.awt.event.ActionEvent evt) {
-        JOptionPane.showMessageDialog(this, "Made by Danylo Donets(34Group)");
+        JOptionPane.showMessageDialog(this, "Made by Ilya Shachinskiy(Mopsik)(34Group)");
     }
 
     private void formWindowOpened(java.awt.event.WindowEvent evt) {
