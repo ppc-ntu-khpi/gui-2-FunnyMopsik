@@ -21,9 +21,9 @@
 2. Запустіть проект, впевніться, що все працює як очікувалось. Продемонстрируйте результат викладачеві. 
 
 ### Працездатність:
-![](https://github.com/ppc-ntu-khpi/gui-2-DanyloDonets/blob/master/Gui2-1.png)
-![](https://github.com/ppc-ntu-khpi/gui-2-DanyloDonets/blob/master/Gui2-2.png)
-![](https://github.com/ppc-ntu-khpi/gui-2-DanyloDonets/blob/master/Gui2-3.png)
+![](https://github.com/ppc-ntu-khpi/gui-2-FunnyMopsik/blob/master/Gui2-1.png)
+![](https://github.com/ppc-ntu-khpi/gui-2-FunnyMopsik/blob/master/Gui2-2.png)
+![](https://github.com/ppc-ntu-khpi/gui-2-FunnyMopsik/blob/master/Gui2-3.png.png)
 
 [![Gitter](https://badges.gitter.im/PPC-SE-2020/OOP.svg)](https://gitter.im/PPC-SE-2020/OOP?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
